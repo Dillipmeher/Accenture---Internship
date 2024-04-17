@@ -42,7 +42,7 @@ The analysis revealed the top 5 most popular content categories:
 5. Food
 
 ![image](https://github.com/Dillipmeher/Accenture---Internship/assets/143451788/fb89f91a-3555-4664-bb7e-410d16cbe953)
-![image](https://github.com/Dillipmeher/Accenture---Internship/assets/143451788/3a600ac7-7ea9-467b-b39a-764cddcfe802)
+
    
 
 ### Insights and Recommendations

@@ -28,9 +28,15 @@ The analysis revealed the top 5 most popular content categories:
 4. Technology
 5. Food
 
+![image](https://github.com/Dillipmeher/Accenture---Internship/assets/143451788/fb89f91a-3555-4664-bb7e-410d16cbe953)
+![image](https://github.com/Dillipmeher/Accenture---Internship/assets/143451788/3a600ac7-7ea9-467b-b39a-764cddcfe802)
+   
+
 ### Insights and Recommendations
 
 #### Insights:
+
+![image](https://github.com/Dillipmeher/Accenture---Internship/assets/143451788/63e38894-cd26-432b-9d28-262ac02cc7ff)
 
 - **Content Preferences**: Users gravitate towards "real-life" (Animals) and "factual" (Science) content.
 - **Audience Engagement**: Healthy eating emerges as a prevalent theme, indicating user interests.
@@ -44,6 +50,9 @@ The analysis revealed the top 5 most popular content categories:
 The ad-hoc analysis provided valuable insights, but the next stage is to scale up data analytics for real-time understanding and business impact.
 
 - **Production-Ready Analytics**: Accenture offers expertise in scaling analytics for real-time insights and decision-making across your organization.
+
+  ![image](https://github.com/Dillipmeher/Accenture---Internship/assets/143451788/a1b0d341-cb79-4b20-92f1-30a03dcf96e3)
+
 
 ### Conclusion
 

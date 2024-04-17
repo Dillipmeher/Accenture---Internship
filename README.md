@@ -44,4 +44,6 @@ The ad-hoc analysis provided valuable insights, but the next stage is to scale u
 ### Conclusion
 
 This README provides a summary of the internship project conducted by Accenture North America's Data Analytics and Visualization team, highlighting key analysis findings, insights, and recommendations derived from the engagement with Social Buzz.
+![image](https://github.com/Dillipmeher/Accenture---Internship/assets/143451788/9fdc434c-8d48-4209-bd3d-db2b19675790)
+
 

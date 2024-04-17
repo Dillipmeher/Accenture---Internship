@@ -1,12 +1,25 @@
 # Accenture North America Internship Project: Data Analytics and Visualization
 
+## Client Overview
+
+- **Client Name:** Social Buzz
+- **Industry:** Social Media & Content Creation
+- **Year Established:** 2010
+- **Location of HQ:** San Francisco
+- **Number of Employees:** 250
+
+**Client Background:**
+Social Buzz was founded in 2010 by two former engineers from a large social media conglomerate, aiming to emphasize content in a platform where users remain anonymous. With over 500 million active users monthly, Social Buzz faces significant challenges in managing vast amounts of unstructured data and scaling effectively.
+
+
 ![image](https://github.com/Dillipmeher/Accenture---Internship/assets/143451788/9fdc434c-8d48-4209-bd3d-db2b19675790)
-![image](https://github.com/Dillipmeher/Accenture---Internship/assets/143451788/78fc0d60-1a33-49b1-a536-3a6762e34557)
 
 
 ## Project Overview
 
 This repository documents a 3-month Proof of Concept (POC) conducted by Accenture North America in collaboration with Social Buzz, focusing on data analytics and content strategy to support the company's growth and engagement.
+
+![image](https://github.com/Dillipmeher/Accenture---Internship/assets/143451788/78fc0d60-1a33-49b1-a536-3a6762e34557)
 
 ### Engagement Recap
 
@@ -57,6 +70,11 @@ The ad-hoc analysis provided valuable insights, but the next stage is to scale u
 ### Conclusion
 
 This README provides a summary of the internship project conducted by Accenture North America's Data Analytics and Visualization team, highlighting key analysis findings, insights, and recommendations derived from the engagement with Social Buzz.
+
+
+
+
+
 
 
 

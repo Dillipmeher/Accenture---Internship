@@ -1,6 +1,8 @@
 # Accenture North America Internship Project: Data Analytics and Visualization
 
 ![image](https://github.com/Dillipmeher/Accenture---Internship/assets/143451788/9fdc434c-8d48-4209-bd3d-db2b19675790)
+![image](https://github.com/Dillipmeher/Accenture---Internship/assets/143451788/78fc0d60-1a33-49b1-a536-3a6762e34557)
+
 
 ## Project Overview
 
